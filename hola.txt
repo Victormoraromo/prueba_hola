@@ -9,3 +9,5 @@ nuevas areas
 canada
 México
 panama
+colombia
+
